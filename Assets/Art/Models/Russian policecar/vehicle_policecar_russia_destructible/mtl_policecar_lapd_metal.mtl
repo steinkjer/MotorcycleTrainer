@@ -1,0 +1,8 @@
+newmtl mtl_policecar_lapd_metal
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\policecar_metro_col.tga
+map_bump ..\\_images\\policecar_metro_nml.tga
+map_Ks ..\\_images\\~policecar_lapd_spc-rgb&polic~920b46ea.tga

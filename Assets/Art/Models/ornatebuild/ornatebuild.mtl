@@ -1,0 +1,16 @@
+newmtl ornatebuild
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\ornatebuild.jpg
+newmtl ornatebuild1
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\ornatebuild.jpg

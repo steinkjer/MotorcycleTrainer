@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 9deef726ce785dd4689854d8370c0b79
+  - enabled: 1
+    path: Assets/Scenes/ForestLevel.unity
+    guid: 0ba46aa816e233646bfd63a8d2bfa906
+  - enabled: 1
+    path: Assets/Scenes/ParkingLevel.unity
+    guid: 1d2429999e6bab244a17ff817155a9bb
+  - enabled: 1
+    path: Assets/Scenes/CrossRoadLevel 1.unity
+    guid: 15fcdbdd6263c0f40934ac8006ee76b2
+  - enabled: 1
+    path: Assets/Scenes/GoToWork.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/WaitForMovement.unity
+    guid: 15d0148563cb8514f9809b698bd2e9d6
+  m_configObjects: {}

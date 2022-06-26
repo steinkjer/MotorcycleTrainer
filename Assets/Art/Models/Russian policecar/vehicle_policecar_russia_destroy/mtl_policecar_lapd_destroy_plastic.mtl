@@ -1,0 +1,8 @@
+newmtl mtl_policecar_lapd_destroy_plastic
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\policecar_lapd_destroy_col.tga
+map_bump ..\\_images\\policecar_lapd_destroy_nml.tga
+map_Ks ..\\_images\\~policecar_lapd_destroy_spc-r~86049e95.tga

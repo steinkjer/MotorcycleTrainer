@@ -1,0 +1,32 @@
+newmtl build1
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\build1.jpg
+newmtl build2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\build2.jpg
+newmtl build3
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\build3.jpg
+newmtl build4
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 20.000000
+Tr 0.000000
+illum 1
+map_Kd D:\XSI\del\Pictures\build4.jpg
